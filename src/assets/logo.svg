@@ -9,7 +9,7 @@
       .icon-stroke { stroke: #0b1e19; }
       .text-lesson { fill: #0f172a; }
       .text-trace { fill: #2dd4bf; }
-
+zsh:1: command not found: q
       /* Dark Mode Styles */
       @media (prefers-color-scheme: dark) {
         .text-lesson { fill: #f8fafc; }
